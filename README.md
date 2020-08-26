@@ -1,5 +1,5 @@
 # Team-078-Product
 This Repository consists of
-Documentations 
-UI/UX desigins 
-Project management 
+1. Documentations 
+2. UI/UX desigins 
+3. Project management 
